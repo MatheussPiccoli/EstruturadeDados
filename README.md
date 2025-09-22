@@ -17,7 +17,7 @@ Python 3.10+
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/EstruturaDeDados.git
+git clone https://github.com/MatheussPiccoli/EstruturadeDados.git
 cd EstruturaDeDados
 
 
