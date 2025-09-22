@@ -18,9 +18,12 @@ Python 3.10+
 Clone o repositório:
 
 git clone https://github.com/MatheussPiccoli/EstruturadeDados.git
+
+
 cd EstruturaDeDados
 
 
 Execute o arquivo de testes desejado:
+
 
 python testes.py
